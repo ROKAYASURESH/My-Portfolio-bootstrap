@@ -100,6 +100,7 @@
     left: 0;
     width: 0;
     height: 2px;
+    color: white;
     background: blueviolet;
     transition: 0.3s;
     bottom: 0;
@@ -187,7 +188,7 @@
 
     .header-scrolled .nav-item .nav-link.active,
     .header-scrolled .nav-item .nav-link:hover{
-        color: black;
+        /* color: rgb(227, 209, 209); */
         background-color: transparent;
         /* border: 2px solid #FD4766; */
     }
