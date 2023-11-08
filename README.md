@@ -15,7 +15,6 @@ The Obvertake project is a front-end web development project that focuses on cre
 ## Demo
 You can view the demo of this project
 
-![screencapture-127-0-0-1-5500-index-html-2023-11-03-08_03_57](https://github.com/ROKAYASURESH/04-overtake-/assets/127000485/1244baff-28a4-4e0e-ab1f-12c80e374a7d)
 
 
 ## Getting Started
