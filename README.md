@@ -9,7 +9,6 @@ Welcome to My Portfolio-Bootstrap! This is a simple and stylish portfolio templa
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -59,7 +58,6 @@ Open the `index.html` file in your preferred web browser to view your portfolio.
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-ct is licensed under the [MIT License](LICENSE).
 
 ---
 
