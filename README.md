@@ -28,7 +28,7 @@ You can view a live demo of the project [here](https://github.com/ROKAYASURESH/M
 1. Clone the repository:
 
    ```bash
- https://github.com/ROKAYASURESH/My-Portfolio-bootstrap.git
+   git clone https://github.com/ROKAYASURESH/My-Portfolio-bootstrap.git
    ```
 
 2. Navigate to the project directory:
