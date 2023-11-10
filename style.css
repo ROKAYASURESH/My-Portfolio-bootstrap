@@ -473,12 +473,14 @@ body{background-color:#091020;}
     content: '';
     position: absolute;
     width: 150px;
-    height: 1000px;
+    height: 800px;
     left: 100px;
     top: -50px;
     background: linear-gradient(#d91111, #3506b7 );
     animation: animate 2s linear infinite;
+    transform-origin: center;
     animation-delay: 1s;
+    /* z-index: 111; */
 }
 
 @keyframes animate {
